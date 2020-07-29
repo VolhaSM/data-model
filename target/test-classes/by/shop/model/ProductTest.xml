@@ -1,0 +1,13 @@
+<dataset>
+    <product id="4028e7b773912199017391219e860000"
+             name="Lenovo Notebook"
+             produced_date="2020-07-27 16:36:06.263000"
+             product_number="132445"
+             serial_number="88888-554"/>
+
+    <product id="4028e7b773912199017391219e860001"
+             name="Lenovo Notebook2"
+             produced_date="2020-07-27 16:36:06.263000000"
+             product_number="13244500"
+             serial_number="88888-55400"/>
+</dataset>
